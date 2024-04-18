@@ -1,5 +1,3 @@
-import utils.StringUtil;
-
 import java.security.PublicKey;
 
 public class TransactionOutput {

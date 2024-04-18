@@ -9,8 +9,6 @@
 //   (su dung lam dau vao tham chieu cho giao dich moi)
 // + Chu ki de chung minh chu cua dia chi la nguoi thuc hien giao dich
 
-import utils.StringUtil;
-
 import java.security.*;
 import java.util.ArrayList;
 
